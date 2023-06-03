@@ -1,0 +1,53 @@
+body {
+  background-image:linear-gradient(90deg,black,cyan,black) ;
+  background-size: cover;
+  height: 100vh;
+  font-family: t;
+
+}
+h1{
+  text-align: center;
+}
+.heading{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color:#000000;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  .converter {
+    width: 1550px;
+  }
+.input {
+  text-align: center;
+  width: 1536px;
+  width: 1536px;
+  padding-top: 40px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.output {
+  text-align: center;
+  width: 1536px;
+  padding-top: 40px;
+  font-weight: bold;
+}
+.para{
+  text-align: center;
+  width: 1536px;
+  font-size: 30px;
+  font-family:'Times New Roman', Times, serif;
+  padding: 5px;
+  color: #000000;
+}
+.form{	
+  text-align: center;
+  width: 1536px;
+  height: 30px;
+  width: 200px;
+  border: 0px;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+}
